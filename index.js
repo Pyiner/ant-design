@@ -46,7 +46,8 @@ const antd = {
   Timeline: require('./components/timeline'),
   Button: require('./components/button').Button,
   ButtonGroup: require('./components/button').ButtonGroup,
-  Icon: require('./components/iconfont')
+  Icon: require('./components/iconfont'),
+  Form: require('./components/form')
 };
 
 // deprecate antd.confirm
